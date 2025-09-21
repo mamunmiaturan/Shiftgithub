@@ -1,37 +1,37 @@
 # 👋 Hi there, I’m **Mamun Mia Turan**
 
-## 💡 About Me  
-- 🔭 I’m a **Software Engineer | Full-Stack Developer** with **4+ years** of experience  
-- 👀 Passionate about **web development, clean code, and building scalable, maintainable systems**  
-- 🌱 Currently diving deeper into **Python (Django, Django REST Framework)** and modern JavaScript frameworks  
-- ⚡ I love exploring new technologies, solving interesting problems, and working on projects that have an impact  
+## 💡 About Me
+- 🔭 I’m a **Software Engineer | Full-Stack Developer** with **4+ years** of experience
+- 👀 Passionate about **web development, clean code, and building scalable, maintainable systems**
+- 🌱 Currently diving deeper into **Python**, especially **Django** and **Django REST Framework**
+- ⚡ I love exploring new technologies, solving interesting problems, and working on projects that have an impact
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 🌐 Frontend  
-- **Languages & Libraries:** Bootstrap, JavaScript, React, Vue.js  
+### **🌐 Frontend**
+- **Languages & Libraries:** JavaScript, React, Vue.js, Bootstrap (CSS framework)
 
-### 🔧 Backend  
-- **Languages:** C, C++, Java, PHP, Python  
-- **Frameworks:** CodeIgniter 3 & 4, Laravel, Django, Django REST Framework  
+### **🔧 Backend**
+- **Languages:** C, C++, Java, PHP, Python
+- **Frameworks:** CodeIgniter (3 & 4), Laravel, Django, Django REST Framework
 
-### 🗄️ Databases  
-- MySQL, PostgreSQL, SQLite  
+### **🗄️ Databases**
+- **Relational:** MySQL, PostgreSQL, SQLite
 
-### ⚙️ Tools & Platforms  
-- Docker, Git, Linux, REST APIs  
+### **⚙️ Tools & Platforms**
+- Docker, Git, Linux, REST APIs
 
-## 🤝 Open to Collaborate  
-- 💞️ I’m looking to collaborate on **web apps, SaaS, open source, API development**, automation tools  
-- 📌 I enjoy working across the stack — backend, frontend, infrastructure  
+## 🤝 Open to Collaborate
+- 💞️ Looking to collaborate on **web apps, SaaS, open source, API development, and automation tools**
+- 📌 I enjoy working across the stack — the backend, the frontend, and infrastructure
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 - 💼 LinkedIn: [Mamun Mia Turan](https://www.linkedin.com/in/mamun-mia-turan-588800200/)
-- 📧 Email: [mamunmiaturan@gmail.com](mailto:mamunmiaturan@gmail.com)  
+- 📧 Email: [mamunmiaturan@gmail.com](mailto:mamunmiaturan@gmail.com)
 
-## 🎯 Goals & Fun Facts  
-- 🎯 2025 Goal: Contribute more to open-source & master backend architecture design  
-- 🧠 Outside of coding, I enjoy reading up on best practices, mentoring juniors, and exploring new frameworks  
+## 🎯 Goals & Fun Facts
+- 🎯 **2025 Goal:** Contribute more to open-source & master backend architecture design
+- 🧠 Outside of coding, I enjoy learning about best practices, mentoring juniors, and exploring new frameworks
 
 ---
 
