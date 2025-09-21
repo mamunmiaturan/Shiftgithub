@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
-- **Languages & Libraries:** JavaScript, Bootstrap, React, Vue.js  
+- **Languages & Libraries:** Bootstrap, JavaScript, React, Vue.js  
 
 ### 🔧 Backend  
 - **Languages:** C, C++, Java, PHP, Python  
