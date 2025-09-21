@@ -26,7 +26,7 @@
 - 📌 I enjoy working across the stack — backend, frontend, infrastructure  
 
 ## 📫 Connect With Me  
-- 📧 Email: [mhturanmohammad@gmail.com](mailto:mamunmiaturan@gmail.com)  
+- 📧 Email: [mamunmiaturan@gmail.com](mailto:mamunmiaturan@gmail.com)  
 - 💼 LinkedIn: [Mamun Mia Turan](https://www.linkedin.com/in/mamun-mia-turan-588800200/)
 
 ## 🎯 Goals & Fun Facts  
