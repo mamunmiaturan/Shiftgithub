@@ -4,13 +4,13 @@
 - 🔭 I’m a **Software Engineer | Full-Stack Developer** with **4+ years** of experience  
 - 👀 Passionate about **web development, clean code, and building scalable, maintainable systems**  
 - 🌱 Currently diving deeper into **Python (Django, Django REST Framework)** and modern JavaScript frameworks  
-- ⚡ I love exploring new technologies, solving interesting problems, and working on projects that have impact  
+- ⚡ I love exploring new technologies, solving interesting problems, and working on projects that have an impact  
 
 ## 🛠️ Tech Stack  
 - **Languages:** PHP, Python, JavaScript, SQL  
-- **Frameworks/Libraries:** Laravel, CodeIgniter, Django, Django REST Framework, React (or whichever JS framework you prefer)  
+- **Frameworks/Libraries:** CodeIgniter, Django, Django REST Framework, Laravel, and React (or whichever JS framework you prefer)  
 - **Databases:** MySQL, PostgreSQL, SQLite  
-- **Tools & Platforms:** Git, Docker, REST APIs, Linux, (add any cloud provider you use, e.g. AWS / GCP / Azure)  
+- **Tools & Platforms:** Git, Docker, REST APIs, Linux, (add any cloud provider you use, e.g., AWS / GCP / Azure)  
 
 ## 🤝 Open to Collaborate  
 - 💞️ I’m looking to collaborate on **web apps, SaaS, open source, API development**, automation tools  
