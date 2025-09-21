@@ -7,19 +7,27 @@
 - ⚡ I love exploring new technologies, solving interesting problems, and working on projects that have an impact  
 
 ## 🛠️ Tech Stack  
-- **Languages:** PHP, Python, JavaScript, SQL  
-- **Frameworks/Libraries:** CodeIgniter, Django, Django REST Framework, Laravel, and React (or whichever JS framework you prefer)  
-- **Databases:** MySQL, PostgreSQL, SQLite  
-- **Tools & Platforms:** Git, Docker, REST APIs, Linux, (add any cloud provider you use, e.g., AWS / GCP / Azure)  
+
+### 🌐 Frontend  
+- **Languages & Libraries:** JavaScript, Bootstrap, React, Vue.js  
+
+### 🔧 Backend  
+- **Languages:** C, C++, Java, PHP, Python  
+- **Frameworks:** CodeIgniter 3 & 4, Laravel, Django, Django REST Framework  
+
+### 🗄️ Databases  
+- MySQL, PostgreSQL, SQLite  
+
+### ⚙️ Tools & Platforms  
+- Docker, Git, Linux, REST APIs  
 
 ## 🤝 Open to Collaborate  
 - 💞️ I’m looking to collaborate on **web apps, SaaS, open source, API development**, automation tools  
 - 📌 I enjoy working across the stack — backend, frontend, infrastructure  
 
 ## 📫 Connect With Me  
-- 📧 Email: [mhturanmohammad@gmail.com](mailto:mhturanmohammad@gmail.com)  
-- 💼 LinkedIn: [Mamun Mia Turan](https://www.linkedin.com/in/mamun-mia-turan-588800200/)  
-- 🌍 Portfolio: *(you can add a link here if you have one)*  
+- 📧 Email: [mhturanmohammad@gmail.com](mailto:mamunmiaturan@gmail.com)  
+- 💼 LinkedIn: [Mamun Mia Turan](https://www.linkedin.com/in/mamun-mia-turan-588800200/)
 
 ## 🎯 Goals & Fun Facts  
 - 🎯 2025 Goal: Contribute more to open-source & master backend architecture design  
@@ -28,4 +36,3 @@
 ---
 
 ✨ *“Code is like solving a puzzle — every line matters.”*
-
